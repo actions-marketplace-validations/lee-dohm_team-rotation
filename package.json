@@ -33,7 +33,7 @@
     "@vercel/ncc": "^0.27.0",
     "extract-pr-titles": "^1.1.0",
     "jest": "^24.9.0",
-    "jest-circus": "^26.6.3",
+    "jest-circus": "^29.5.0",
     "nock": "^13.0.10",
     "prettier": "2.2.1",
     "ts-jest": "^24.3.0",
